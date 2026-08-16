@@ -1,2 +1,1 @@
-# hello-world
-estou aprendendo 
+Olá, me chamo Laís e sou estudante de Análise e Desenvolvimento de Sistemas, estou aprendendo Frontend onde Html, Css e JavaScript é essencial. Estou conhecendo a linguagens Python, Sql, confesso que não sei muito ainda, mas vou chegar onde quero.
